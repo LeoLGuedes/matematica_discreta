@@ -1,0 +1,19 @@
+6
+D
+python, c++, c, js, java
+ruby, rust, python, mobal, c, js
+I
+curitiba, londrina, amapá
+lages, apucarana, curitiba, joinville, amapa
+U
+443, 876, 34, 123, 892
+5, 75, 443, 34, 5
+D
+tde1, tde2, tde3
+ra1, ra2, tde1, atividade complementar
+C
+32, 9, 99, 56, 3
+3, 105, 344, 9, 56
+U
+BCC, ADS
+Medicina, EF, Engenharia

@@ -1,0 +1,16 @@
+5
+I
+1, 3, 5, 7
+2, 3, 6, 7
+U
+maçã, banana, cereja
+banana, uva, manga
+D
+azul, vermelho, verde
+vermelho, amarelo, azul
+C
+gato, cachorro
+rato, pássaro
+U
+100, 200, 300
+200, 400, 500
