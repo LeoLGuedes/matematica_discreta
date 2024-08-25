@@ -1,3 +1,5 @@
+#Leonardo Lino Guedes
+
 #Para obter os pontos relativos a este trabalho, você deverá criar um programa, utilizando a
 #linguagem Python, C, ou C++. Este programa, quando executado, irá apresentar os resultados de
 #operações que serão realizadas entre dois conjuntos de dados.
@@ -10,8 +12,6 @@
 #operação (U para união, I para interseção, D para diferença e C produto cartesiano), a segunda e
 #terceira linhas conterão os elementos dos conjuntos separados por virgulas. A seguir está um exemplo
 #das linhas que podem existir em um arquivo de testes para o programa que você irá desenvolver:
-
-#Leonardo Lino Guedes
 
 #Método correto para se abrir um conjunto em python
 conjunto1 = set()
